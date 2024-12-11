@@ -1,1 +1,1 @@
-# Amazon-prime-Dashboard-using-power-bii
+# Amazon-prime-Dashboard-using-power-bi
